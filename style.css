@@ -1,0 +1,26 @@
+h1 {
+ border-bottom: dotted 5px gray;
+ font-family: 'Staatliches', cursive;
+ letter-spacing: 2px;
+}
+
+p {
+ font-family: 'Roboto', sans-serif;
+ font-family: 'Staatliches', cursive;
+ letter-spacing: 1px;
+}
+
+li {
+ font-family: 'Roboto', sans-serif;
+ font-family: 'Staatliches', cursive;
+ letter-spacing: 1px;
+}
+
+h2 {
+ font-family: 'Roboto', sans-serif;
+ font-family: 'Staatliches', cursive;
+ letter-spacing: 1px;
+ text-decoration: underline;
+}
+
+/* I realized after I wrote this I could assign a div for the elements to apply the fonts. */
